@@ -1,0 +1,52 @@
+{
+  "instruments": [
+    {
+      "name": "Electric Guitar",
+      "price": "$500",
+      "section": "Strings",
+      "family": "Guitar",
+      "image": "https://example.com/electric_guitar.jpg",
+      "description": "The electric guitar is a versatile instrument used in various genres of music. It is played by plucking or strumming the strings and producing sound through an amplifier."
+    },
+    {
+      "name": "Drums",
+      "price": "$800",
+      "section": "Percussion",
+      "family": "Percussion",
+      "image": "https://example.com/drums.jpg",
+      "description": "Drums are a rhythmic instrument consisting of various components, such as the bass drum, snare drum, and cymbals. They are played by striking or hitting the different drum surfaces."
+    },
+    {
+      "name": "Piano",
+      "price": "$1,200",
+      "section": "Keyboard",
+      "family": "Piano",
+      "image": "https://example.com/piano.jpg",
+      "description": "The piano is a versatile keyboard instrument with a wide range of notes. It is played by pressing the keys, which cause hammers to strike the strings and produce sound."
+    },
+    {
+      "name": "Bass Guitar",
+      "price": "$400",
+      "section": "Strings",
+      "family": "Guitar",
+      "image": "https://example.com/bass_guitar.jpg",
+      "description": "The bass guitar is a lower-pitched instrument that provides the foundation of the rhythm section in many music genres. It is played by plucking or strumming the strings."
+    },
+    {
+      "name": "Trumpet",
+      "price": "$300",
+      "section": "Brass",
+      "family": "Brass",
+      "image": "https://example.com/trumpet.jpg",
+      "description": "The trumpet is a brass instrument known for its bright and powerful sound. It is played by buzzing the lips into a cup-shaped mouthpiece and pressing the valves to change the pitch."
+    },
+    {
+      "name": "Violin",
+      "price": "$600",
+      "section": "Strings",
+      "family": "Violin",
+      "image": "https://example.com/violin.jpg",
+      "description": "The violin is a string instrument played with a bow. It has a rich and expressive sound and is a prominent member of the orchestral and chamber music ensembles."
+    }
+  ]
+}
