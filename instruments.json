@@ -5,7 +5,7 @@
       "price": "$500",
       "section": "Strings",
       "family": "Guitar",
-      "image": "https://example.com/electric_guitar.jpg",
+      "image": "https://github.com/David4noy/Music-instruments-/blob/main/instrumentsImages/e_guitar.png?raw=true",
       "description": "The electric guitar is a versatile instrument used in various genres of music. It is played by plucking or strumming the strings and producing sound through an amplifier."
     },
     {
@@ -13,7 +13,7 @@
       "price": "$800",
       "section": "Percussion",
       "family": "Percussion",
-      "image": "https://example.com/drums.jpg",
+      "image": "https://github.com/David4noy/Music-instruments-/blob/main/instrumentsImages/drums.png?raw=true",
       "description": "Drums are a rhythmic instrument consisting of various components, such as the bass drum, snare drum, and cymbals. They are played by striking or hitting the different drum surfaces."
     },
     {
@@ -21,7 +21,7 @@
       "price": "$1,200",
       "section": "Keyboard",
       "family": "Piano",
-      "image": "https://example.com/piano.jpg",
+      "image": "https://github.com/David4noy/Music-instruments-/blob/main/instrumentsImages/piano.png?raw=true",
       "description": "The piano is a versatile keyboard instrument with a wide range of notes. It is played by pressing the keys, which cause hammers to strike the strings and produce sound."
     },
     {
@@ -29,7 +29,7 @@
       "price": "$400",
       "section": "Strings",
       "family": "Guitar",
-      "image": "https://example.com/bass_guitar.jpg",
+      "image": "https://github.com/David4noy/Music-instruments-/blob/main/instrumentsImages/e_bass.png?raw=true",
       "description": "The bass guitar is a lower-pitched instrument that provides the foundation of the rhythm section in many music genres. It is played by plucking or strumming the strings."
     },
     {
@@ -37,7 +37,7 @@
       "price": "$300",
       "section": "Brass",
       "family": "Brass",
-      "image": "https://example.com/trumpet.jpg",
+      "image": "https://github.com/David4noy/Music-instruments-/blob/main/instrumentsImages/trumpet.png?raw=true",
       "description": "The trumpet is a brass instrument known for its bright and powerful sound. It is played by buzzing the lips into a cup-shaped mouthpiece and pressing the valves to change the pitch."
     },
     {
@@ -45,7 +45,7 @@
       "price": "$600",
       "section": "Strings",
       "family": "Violin",
-      "image": "https://example.com/violin.jpg",
+      "image": "https://github.com/David4noy/Music-instruments-/blob/main/instrumentsImages/violin.png?raw=true",
       "description": "The violin is a string instrument played with a bow. It has a rich and expressive sound and is a prominent member of the orchestral and chamber music ensembles."
     }
   ]
